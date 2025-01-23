@@ -1,7 +1,7 @@
 from collections import deque
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        # 육지1 물 0이다
+        # 육지1 물 0
         result=0
         dy = [-1, 0, 1, 0]
         dx = [0, 1, 0, -1]
