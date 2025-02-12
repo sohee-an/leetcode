@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sohee-an/leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sohee-an/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sohee-an/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sohee-an/leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/sohee-an/leetcode/tree/master/0200-number-of-islands) |
@@ -47,11 +48,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sohee-an/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sohee-an/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sohee-an/leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sohee-an/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sohee-an/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sohee-an/leetcode/tree/master/0101-symmetric-tree) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sohee-an/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
