@@ -6,10 +6,8 @@
 #         self.right = right
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-       
         p_visited=[]
         q_visited=[]
-
 
 
         def bfs(p_node,q_node):
@@ -19,7 +17,7 @@ class Solution:
             if p_node is None or q_node is None:
                 return False
 
-            
+             
             q=deque()
             q.append((p_node,q_node))
            
