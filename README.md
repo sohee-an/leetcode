@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sohee-an/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/sohee-an/leetcode/tree/master/0200-number-of-islands) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sohee-an/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0871-keys-and-rooms](https://github.com/sohee-an/leetcode/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sohee-an/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/sohee-an/leetcode/tree/master/0200-number-of-islands) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sohee-an/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0871-keys-and-rooms](https://github.com/sohee-an/leetcode/tree/master/0871-keys-and-rooms) |
 ## Union Find
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sohee-an/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sohee-an/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sohee-an/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -61,8 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sohee-an/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sohee-an/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sohee-an/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sohee-an/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sohee-an/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
