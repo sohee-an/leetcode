@@ -18,8 +18,8 @@ class Solution:
             elif node.right and node.left is None:
                 nodeValues.append(node.right.val)
             
-            if node.left is None and node.right is None:
-                return 
+            # if node.left is None and node.right is None:
+            #     return 
             
 
             
