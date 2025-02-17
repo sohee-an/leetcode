@@ -10,19 +10,22 @@ class Solution:
 
         def dfs(node):
             if node is None:
-                return
+                return 
             nodeValues.append(node.val)
             dfs(node.left)
             dfs(node.right)
-        
-        dfs(root)
 
+        dfs(root)
         nodeValues.sort()
-        minDifference = 1e9
+        minDifference = 10000000
         for i in range(1, len(nodeValues)):
             minDifference = min(minDifference, nodeValues[i] - nodeValues[i-1])
 
         return minDifference
+
+
+
+
        
 
 
