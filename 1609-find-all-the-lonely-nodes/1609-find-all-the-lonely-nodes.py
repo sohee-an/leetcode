@@ -12,6 +12,7 @@ class Solution:
 
         q= deque([root])
 
+
         while q:
             cur=q.popleft()
 
