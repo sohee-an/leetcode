@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sohee-an/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sohee-an/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/sohee-an/leetcode/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sohee-an/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/sohee-an/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sohee-an/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sohee-an/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/sohee-an/leetcode/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sohee-an/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/sohee-an/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sohee-an/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sohee-an/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sohee-an/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/sohee-an/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sohee-an/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sohee-an/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sohee-an/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/sohee-an/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
