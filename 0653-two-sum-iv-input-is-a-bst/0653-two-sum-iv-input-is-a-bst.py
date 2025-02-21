@@ -22,7 +22,7 @@ class Solution:
         
 
         
-        print(root_list)
+       
         sum=0
         for i in range(len(root_list)):
             for j in range(i + 1, len(root_list)):
