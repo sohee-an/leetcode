@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sohee-an/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sohee-an/leetcode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/sohee-an/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/sohee-an/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/sohee-an/leetcode/tree/master/0871-keys-and-rooms) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/sohee-an/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sohee-an/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sohee-an/leetcode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/sohee-an/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/sohee-an/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/sohee-an/leetcode/tree/master/0871-keys-and-rooms) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/sohee-an/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sohee-an/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/sohee-an/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/sohee-an/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/sohee-an/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
 ## Binary Tree
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/sohee-an/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sohee-an/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/sohee-an/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/sohee-an/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
 ## Stack
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sohee-an/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sohee-an/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/sohee-an/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Hash Table
 |  |
 | ------- |
