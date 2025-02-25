@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sohee-an/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/sohee-an/leetcode/tree/master/0871-keys-and-rooms) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sohee-an/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/sohee-an/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sohee-an/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sohee-an/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/sohee-an/leetcode/tree/master/0871-keys-and-rooms) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sohee-an/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/sohee-an/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sohee-an/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/sohee-an/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sohee-an/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sohee-an/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/sohee-an/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
 ## Binary Tree
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sohee-an/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sohee-an/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sohee-an/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/sohee-an/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
 ## Stack
 |  |
