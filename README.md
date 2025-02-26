@@ -147,4 +147,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sohee-an/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2571-find-the-pivot-integer](https://github.com/sohee-an/leetcode/tree/master/2571-find-the-pivot-integer) |
+## Math
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/sohee-an/leetcode/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
