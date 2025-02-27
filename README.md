@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sohee-an/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sohee-an/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sohee-an/leetcode/tree/master/0733-flood-fill) |
+| [2102-find-the-middle-index-in-array](https://github.com/sohee-an/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sohee-an/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2102-find-the-middle-index-in-array](https://github.com/sohee-an/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/sohee-an/leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Math
 |  |
