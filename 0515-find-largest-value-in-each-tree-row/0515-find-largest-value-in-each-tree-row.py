@@ -14,8 +14,8 @@ class Solution:
 
         while q:
             size=len(q)
-            # max_num=-2147483650
-            max_num= float("-inf")
+            max_num=-2147483650
+            # max_num= float("-inf")
 
             for _ in range(size):
                 cur=q.popleft()
