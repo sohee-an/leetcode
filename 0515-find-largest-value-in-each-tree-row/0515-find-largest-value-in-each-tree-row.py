@@ -11,19 +11,16 @@ class Solution:
         q=deque([root])
         res=[]
         
-        
 
         while q:
             size=len(q)
-            max_num=-2147483650
+            # max_num=-2147483650
+            max_num= float("-inf")
 
             for _ in range(size):
                 cur=q.popleft()
-                print(cur.val)
 
-                if (max_num)<(cur.val):
-                    max_num=cur.val
-                print(max_num)
+                max_num = max(max_num, cur.val)
                 
 
                 if cur.left:
