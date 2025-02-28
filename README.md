@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sohee-an/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/sohee-an/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sohee-an/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sohee-an/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/sohee-an/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sohee-an/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sohee-an/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/sohee-an/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
 ## Binary Tree
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sohee-an/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/sohee-an/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
 ## Stack
 |  |
