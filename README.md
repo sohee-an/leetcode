@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/sohee-an/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/sohee-an/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/sohee-an/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/sohee-an/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,10 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/sohee-an/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/sohee-an/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3644-minimum-positive-sum-subarray](https://github.com/sohee-an/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/sohee-an/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Math
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/sohee-an/leetcode/tree/master/2571-find-the-pivot-integer) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/sohee-an/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
