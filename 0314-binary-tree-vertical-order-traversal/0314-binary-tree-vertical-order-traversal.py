@@ -10,13 +10,13 @@ class Solution:
             return []
         q=deque()
         q.append((root,0))
-        res_dic={}
+        res_dic=defaultdict(list) 
 
         while q:
             cur,index = q.popleft()
             
-            if index not in res_dic:
-                res_dic[index] = []
+            # if index not in res_dic:
+            #     res_dic[index] = []
 
             res_dic[index].append(cur.val)
 
