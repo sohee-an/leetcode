@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sohee-an/leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/sohee-an/leetcode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/sohee-an/leetcode/tree/master/0200-number-of-islands) |
 | [0724-find-pivot-index](https://github.com/sohee-an/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sohee-an/leetcode/tree/master/0733-flood-fill) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sohee-an/leetcode/tree/master/0088-merge-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sohee-an/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1894-merge-strings-alternately](https://github.com/sohee-an/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
@@ -196,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sohee-an/leetcode/tree/master/0088-merge-sorted-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/sohee-an/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 <!---LeetCode Topics End-->
