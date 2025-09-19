@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sohee-an/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sohee-an/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sohee-an/leetcode/tree/master/1036-rotting-oranges) |
+| [1117-as-far-from-land-as-possible](https://github.com/sohee-an/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1603-running-sum-of-1d-array](https://github.com/sohee-an/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sohee-an/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/sohee-an/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sohee-an/leetcode/tree/master/1036-rotting-oranges) |
+| [1117-as-far-from-land-as-possible](https://github.com/sohee-an/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sohee-an/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sohee-an/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/sohee-an/leetcode/tree/master/1609-find-all-the-lonely-nodes) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sohee-an/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sohee-an/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sohee-an/leetcode/tree/master/1036-rotting-oranges) |
+| [1117-as-far-from-land-as-possible](https://github.com/sohee-an/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Graph
 |  |
 | ------- |
@@ -210,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/sohee-an/leetcode/tree/master/0542-01-matrix) |
+| [1117-as-far-from-land-as-possible](https://github.com/sohee-an/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 <!---LeetCode Topics End-->
