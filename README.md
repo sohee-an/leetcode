@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sohee-an/leetcode/tree/master/0035-search-insert-position) |
 | [0079-word-search](https://github.com/sohee-an/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sohee-an/leetcode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/sohee-an/leetcode/tree/master/0200-number-of-islands) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sohee-an/leetcode/tree/master/0035-search-insert-position) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sohee-an/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sohee-an/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sohee-an/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
