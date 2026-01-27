@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sohee-an/leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/sohee-an/leetcode/tree/master/0125-valid-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sohee-an/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/sohee-an/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Backtracking
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sohee-an/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sohee-an/leetcode/tree/master/0125-valid-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sohee-an/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1894-merge-strings-alternately](https://github.com/sohee-an/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
