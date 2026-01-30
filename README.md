@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sohee-an/leetcode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/sohee-an/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sohee-an/leetcode/tree/master/0542-01-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/sohee-an/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sohee-an/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sohee-an/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sohee-an/leetcode/tree/master/1036-rotting-oranges) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sohee-an/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/sohee-an/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Sorting
 |  |
