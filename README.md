@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sohee-an/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sohee-an/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/sohee-an/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sohee-an/leetcode/tree/master/0509-fibonacci-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sohee-an/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/sohee-an/leetcode/tree/master/2571-find-the-pivot-integer) |
@@ -250,9 +251,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sohee-an/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/sohee-an/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sohee-an/leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sohee-an/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/sohee-an/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
