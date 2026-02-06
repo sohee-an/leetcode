@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sohee-an/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sohee-an/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sohee-an/leetcode/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sohee-an/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sohee-an/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sohee-an/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sohee-an/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sohee-an/leetcode/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/sohee-an/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sohee-an/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sohee-an/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sohee-an/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sohee-an/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sohee-an/leetcode/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/sohee-an/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Dynamic Programming
 |  |
