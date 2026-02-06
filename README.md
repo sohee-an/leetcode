@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sohee-an/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sohee-an/leetcode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/sohee-an/leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/sohee-an/leetcode/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/sohee-an/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/sohee-an/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sohee-an/leetcode/tree/master/0724-find-pivot-index) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sohee-an/leetcode/tree/master/0217-contains-duplicate) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/sohee-an/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sohee-an/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sohee-an/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sohee-an/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sohee-an/leetcode/tree/master/0217-contains-duplicate) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/sohee-an/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Dynamic Programming
 |  |
