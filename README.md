@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sohee-an/leetcode/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/sohee-an/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/sohee-an/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/sohee-an/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/sohee-an/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sohee-an/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sohee-an/leetcode/tree/master/1036-rotting-oranges) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sohee-an/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sohee-an/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0682-baseball-game](https://github.com/sohee-an/leetcode/tree/master/0682-baseball-game) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sohee-an/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sohee-an/leetcode/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sohee-an/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
