@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sohee-an/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sohee-an/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sohee-an/leetcode/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/sohee-an/leetcode/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sohee-an/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sohee-an/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sohee-an/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sohee-an/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sohee-an/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/sohee-an/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sohee-an/leetcode/tree/master/0844-backspace-string-compare) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sohee-an/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sohee-an/leetcode/tree/master/0125-valid-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sohee-an/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/sohee-an/leetcode/tree/master/0844-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/sohee-an/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
 |  |
@@ -275,4 +278,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sohee-an/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sohee-an/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
