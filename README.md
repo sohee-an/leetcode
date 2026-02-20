@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sohee-an/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sohee-an/leetcode/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/sohee-an/leetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohee-an/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sohee-an/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sohee-an/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sohee-an/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sohee-an/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/sohee-an/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sohee-an/leetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohee-an/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search Tree
 |  |
 | ------- |
