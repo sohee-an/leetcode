@@ -10,32 +10,20 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var minDepth = function(root) {
-    if(!root)return 0
-    let deuqe=[]
-    deque=[root]
-    let depth=1
- while (deque.length > 0) {
-    const size = deque.length; 
+var minDepth = function (root) {
+  if (!root) return 0;
 
-    for (let i = 0; i < size; i++) {
-      const node = deque.shift();
+  const queue = [[root, 1]]; 
+    while(queue.length>0){
+        const [node,depth]=queue.shift()
 
-      
-      if (!node.left && !node.right) {
-        return depth;
-      }
+        //리프 인지 아닌지 확인
+        if(!node.left && !node.right){
+            return depth
+        }
+        if(node.left) queue.push([node.left,depth+1])
+        if(node.right) queue.push([node.right,depth+1])
 
-      if (node.left) deque.push(node.left);
-      if (node.right) deque.push(node.right);
     }
-
-    depth++;
-  }
-
-return depth
-
-
-
-    
+    return 0
 };
