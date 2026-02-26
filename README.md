@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sohee-an/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/sohee-an/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sohee-an/leetcode/tree/master/0257-binary-tree-paths) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/sohee-an/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/sohee-an/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/sohee-an/leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sohee-an/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sohee-an/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sohee-an/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/sohee-an/leetcode/tree/master/0257-binary-tree-paths) |
 | [0844-backspace-string-compare](https://github.com/sohee-an/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohee-an/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sohee-an/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sohee-an/leetcode/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/sohee-an/leetcode/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sohee-an/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sohee-an/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sohee-an/leetcode/tree/master/0257-binary-tree-paths) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/sohee-an/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/sohee-an/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/sohee-an/leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sohee-an/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sohee-an/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sohee-an/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sohee-an/leetcode/tree/master/0257-binary-tree-paths) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/sohee-an/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/sohee-an/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/sohee-an/leetcode/tree/master/0513-find-bottom-left-tree-value) |
