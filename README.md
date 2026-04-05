@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sohee-an/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sohee-an/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sohee-an/leetcode/tree/master/0257-binary-tree-paths) |
+| [0412-fizz-buzz](https://github.com/sohee-an/leetcode/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/sohee-an/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohee-an/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sohee-an/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sohee-an/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sohee-an/leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/sohee-an/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/sohee-an/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sohee-an/leetcode/tree/master/0509-fibonacci-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sohee-an/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/sohee-an/leetcode/tree/master/2571-find-the-pivot-integer) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sohee-an/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/sohee-an/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sohee-an/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sohee-an/leetcode/tree/master/0844-backspace-string-compare) |
 ## Enumeration
