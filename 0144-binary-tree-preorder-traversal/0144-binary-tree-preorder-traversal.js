@@ -16,18 +16,19 @@ var preorderTraversal = function(root) {
     }
     let result=[]
     //루트 왼 오
+ 
     function dfs(r){
         if(!r){
             return result
         }
 
         result.push(r.val)
-        if(r.left) dfs(r.left)
-        if(r.right) dfs(r.right)
+      dfs(r.left)
+       dfs(r.right)
 
     }
-    dfs(root)
+     dfs(root)
 
-    return result
+     return result
     
 };
