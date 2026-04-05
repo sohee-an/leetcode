@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sohee-an/leetcode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/sohee-an/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sohee-an/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1534-count-good-triplets](https://github.com/sohee-an/leetcode/tree/master/1534-count-good-triplets) |
 | [1603-running-sum-of-1d-array](https://github.com/sohee-an/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sohee-an/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/sohee-an/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -301,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/sohee-an/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sohee-an/leetcode/tree/master/0844-backspace-string-compare) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/sohee-an/leetcode/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
