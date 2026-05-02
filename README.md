@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sohee-an/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/sohee-an/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/sohee-an/leetcode/tree/master/1876-map-of-highest-peak) |
+| [1929-concatenation-of-array](https://github.com/sohee-an/leetcode/tree/master/1929-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/sohee-an/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/sohee-an/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sohee-an/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sohee-an/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sohee-an/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sohee-an/leetcode/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/sohee-an/leetcode/tree/master/1929-concatenation-of-array) |
 ## Enumeration
 |  |
 | ------- |
