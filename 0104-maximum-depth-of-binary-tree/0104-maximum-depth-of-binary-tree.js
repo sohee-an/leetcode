@@ -11,17 +11,21 @@
  * @return {number}
  */
 var maxDepth = function(root) {
- 
-    function bfs(r,depth){
-        if(!r){
-            return depth
-        }
-
-
-    return Math.max(bfs(r.left,depth+1),bfs(r.right,depth+1))
-    }
-    return bfs(root,0)
-
     
+    if(!root)return 0
+    
+    const queue =[[root,1]]
+    let maxDepth =0
+    while(queue.length >0){
+        const [node,depth] =queue.shift()
+         maxDepth= Math.max(maxDepth,depth)
+
+        if(node.left)queue.push([node.left,depth+1])
+        if(node.right)queue.push([node.right,depth+1])
+
+   
+    }
+     return maxDepth
+
     
 };
