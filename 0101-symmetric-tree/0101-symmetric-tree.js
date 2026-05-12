@@ -11,24 +11,31 @@
  * @return {boolean}
  */
 var isSymmetric = function(root) {
-    
-    
-    function bfs(q,p){
+    if(!root)return true
 
-        if(q==null&&p==null){
-            return true
-        }
-        if(q==null | p==null){
-            return false
-        }
-        if(q.val !==p.val){
-            return false
-        }
+    const queue= [[root.left,root.right]]
+
+    while (queue.length>0){
+        const [left,right] =queue.shift()
+
+        if (left === null && right === null) continue
+
+        if(left==null || right===null) return false
+        // if(left.left && !right.right) return false
+        // if(left.right && !right.left) return false
         
-        return bfs(q.left,p.right)&& bfs(q.right,p.left)
+      
+        if(left.val != right.val){
+            return false
+        }
+      
 
+        queue.push([left.left,right.right]) 
+       queue.push([left.right,right.left]) 
+
+       
+        
     }
-
-    return bfs(root.left,root.right)
-    
+     
+    return true
 };
