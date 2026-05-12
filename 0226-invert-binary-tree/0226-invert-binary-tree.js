@@ -19,7 +19,7 @@ if (!root) return null;
     while (queue.length>0){
         const node =queue.shift()
 
-        if(node==null)continue;
+        if(node==null)continue
 
         const temp = node.left       
         node.left = node.right      
