@@ -14,19 +14,20 @@ var invertTree = function(root) {
 if (!root) return null;
 //왼쪽이랑 오른쪽 바꾸기 
    
-   let queue= [root]
+    const queue=[root]
 
-   while(queue.length>0){
-      let node =queue.shift()
+    while (queue.length>0){
+        const node =queue.shift()
 
-      let temp= node.left
-      node.left =node.right
-      node.right=temp
+        if(node==null)continue;
 
-      if(node.left)queue.push(node.left)
-      if(node.right)queue.push(node.right)
+        const temp = node.left       
+        node.left = node.right      
+        node.right = temp   
 
-   }
-
+        queue.push(node.left)
+        queue.push(node.right)
+        
+    }
    return root
 };
