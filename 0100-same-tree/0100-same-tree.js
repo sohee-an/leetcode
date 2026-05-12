@@ -13,23 +13,21 @@
  */
 var isSameTree = function(p, q) {
 
+    if(!p&&!q) return true
+    if(!p || !q) return false
 
-function dfs(p,q){
-
-    if(p==null&& q==null){
-        return true
-    }
-    if(p==null ||q==null){
-        return false
-    }
-    if(p.val!==q.val){
-        return false
-    }
-
- return dfs(p.right,q.right) &&dfs(p.left,q.left)
-}
-   
+    const queue=[[p,q]]
     
-    return dfs(p, q);
-};
+    while(queue.length>0){
+        const [pNode,qNode]=queue.shift()
 
+        if(pNode==null && qNode==null) continue 
+        if(pNode ==null || qNode ==null) return false
+        if(pNode.val!=qNode.val) return false
+
+        queue.push([pNode.left,qNode.left])
+        queue.push([pNode.right,qNode.right])
+    }
+    
+    return true
+};
