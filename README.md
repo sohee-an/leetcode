@@ -360,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sohee-an/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sohee-an/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
