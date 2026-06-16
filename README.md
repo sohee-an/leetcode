@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sohee-an/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sohee-an/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohee-an/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/sohee-an/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sohee-an/leetcode/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/sohee-an/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohee-an/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sohee-an/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sohee-an/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sohee-an/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/sohee-an/leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sohee-an/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/sohee-an/leetcode/tree/master/0844-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/sohee-an/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sohee-an/leetcode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/sohee-an/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sohee-an/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/sohee-an/leetcode/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/sohee-an/leetcode/tree/master/1117-as-far-from-land-as-possible) |
