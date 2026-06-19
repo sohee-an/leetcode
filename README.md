@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sohee-an/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/sohee-an/leetcode/tree/master/0035-search-insert-position) |
 | [0079-word-search](https://github.com/sohee-an/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sohee-an/leetcode/tree/master/0088-merge-sorted-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sohee-an/leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/sohee-an/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sohee-an/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sohee-an/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sohee-an/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sohee-an/leetcode/tree/master/0695-max-area-of-island) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sohee-an/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
